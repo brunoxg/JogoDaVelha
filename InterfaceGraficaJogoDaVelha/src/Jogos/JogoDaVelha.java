@@ -20,6 +20,7 @@ public class JogoDaVelha extends javax.swing.JFrame {
     public JogoDaVelha() {
         initComponents();
     }
+    
     public void JogadorAtivo(){
         
         if(Jogador1Ativo == true) {
